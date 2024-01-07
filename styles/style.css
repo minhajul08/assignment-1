@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
 }
+/* Header-Started */
 header{
     width: 1320px;
     height: 600px;
@@ -30,4 +31,35 @@ header{
     text-align: center;
     font-size: 72px;
     font-weight: 900; 
+}
+/* Header-finished */
+
+/* main-section-started */
+main{
+    text-align: center;
+}
+.new-year-offer{
+    padding-top: 80px;
+}
+.new-year-offer-title{
+    color: #FF0000;
+    font-size: 50px;
+    font-weight: 700;
+    font-family: Inter;
+}
+.new-year-offer-head{
+    font-size: 13px;
+    font-weight: 400;
+    color: #FF0000;
+    margin: 10px;
+}
+.new-year-offer-description{
+    color: #070211;
+    font-size: 28px;
+    font-weight: 700;
+}
+.new-year-offer-img{
+    width: 500px;
+    height: 300px;
+    padding-top: 20px; 
 }
