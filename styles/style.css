@@ -33,7 +33,7 @@ header{
 }
 /* Header-finished */
 
-/* main-section-started */
+/* new-year-section-started */
 .new-year-offer{
     text-align: center;
     padding-top: 80px;
@@ -60,6 +60,10 @@ header{
     max-height: 300px;
     padding: 40px 0; 
 }
+/* new-year-section-finished */
+
+/* welcome-section-started */
+
 .welcome{
     background-image: url(../images/Vectorrr.png);
     background-size: cover;
@@ -95,6 +99,10 @@ header{
     text-transform: uppercase;
     padding-top: 15px;
 }
+
+/* welcome-section-finished */
+
+/* hotel-content-started */
 .hotel-content{
     max-width: 90%;
     max-height: 400px;
@@ -129,6 +137,10 @@ header{
     padding: 8px 16px;
     margin: 0px 526px;
     }
+    /* hotel-content-finished */
+
+    /* happy-new-year-section-started */
+
 .offer-section{
     display: flex;
     width: 1140px;
@@ -197,6 +209,8 @@ header{
     font-weight: 400;
     line-height: 27px; 
 }
+/* happy-new-offer-finished */
+
 /* best-gifts-started */
 .best-gifts{
       padding: 70px;
@@ -238,8 +252,8 @@ header{
    } 
    /* best-gifts-finished */
 
-   /* news */
-   .news-latter{
+   /* news-section-started*/
+    .news-latter{
     height: 400px;
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
@@ -294,5 +308,7 @@ header{
     border-top-right-radius: 50px;
     border-bottom-right-radius:50px ;
   }
+  /* news-section-finished */
+   
 
 
