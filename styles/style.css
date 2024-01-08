@@ -137,10 +137,30 @@ header{
     justify-content: space-around;
     margin: auto;
 }
-.offer-content{
+ .offer .offer-content{
     width: 30%;
     margin: 38px;
 }
+.offer-heading{
+    color: #F00;
+    font-size: 15px;
+    font-weight: 600;
+
+}
+.offer-title{
+    color: #070211;
+    font-size: 30px;
+    font-weight: 900;
+    text-transform: capitalize;
+    padding: 10px;
+} 
+.offer-description{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px; 
+}
+
 .box{
     width: 260px;
     height: 260px;
@@ -149,10 +169,30 @@ header{
     padding:0px 10px;
     margin-right: 22px;
 }
-.box > .ellipse{
-    height: 200px;
-    width: 200px;
+
+.img{
+    background-image: url('../images/Ellipse\ 1.png');
+    height: 240px;
+    width: 240px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 9px auto;
+    align-items: center;
 }
-.happy-new-year-offfer{
+
+.happy-new-year-offer{
     width: 30%;
+}
+
+.happy-new-year-offer-title{
+    color: #F00;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 10px;
+}
+.happy-new-year-offer-description{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 27px; 
 }
