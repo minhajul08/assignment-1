@@ -122,9 +122,37 @@ header{
     background-color: #FF0000;
     border: 0;
     color: white;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 400;
     text-align: center;
-    padding: 10px 20px;
+    padding: 8px 16px;
     margin: 0px 526px;
     }
+.offer-section{
+    display: flex;
+    width: 1140px;
+    height: 400px;
+    background: #FFF;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+}
+.offer-content{
+    width: 30%;
+    margin: 38px;
+}
+.box{
+    width: 260px;
+    height: 260px;
+    border: 10px solid red;
+    border-radius: 260px;
+    padding:0px 10px;
+    margin-right: 22px;
+}
+.box > .ellipse{
+    height: 200px;
+    width: 200px;
+}
+.happy-new-year-offfer{
+    width: 30%;
+}
