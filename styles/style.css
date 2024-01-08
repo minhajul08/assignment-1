@@ -196,3 +196,37 @@ header{
     font-weight: 400;
     line-height: 27px; 
 }
+.holiday{
+    width: 90%;
+    height: 500px;
+    margin:auto;
+    background-image: url('../images/Rectangle\ 2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.holidays-offer{
+    margin: 0px 200px;
+    text-align: center;
+    padding: 10px;
+
+}
+.img-holidays{
+    margin: 0px 200px;
+    /* align-items: center;
+    justify-content: space-around; */
+}
+.group-75{
+    width: 250px;
+    height: 250px;
+  
+}
+.Rectangle-1{
+    width: 250px;
+    height: 250px;
+}
+.box-image{
+    background-image: url('../images/Rectangle\ 2.png');
+    width: 85%;
+    height: 100px;
+}
