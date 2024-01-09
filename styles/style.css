@@ -264,17 +264,17 @@ header{
     margin-left: 67px;
    }
    .group-75 img{
-    width: 50%;
+    width: 47%;
     position: absolute;
     top: 100px;
     
+    
    }
    .rectangle-1 img{
-     width: 350px;
+     width: 321px;
    }
    .rectangle-1{
     position: absolute;
-    /* right: 0; */
     right: 0;
     top: 60px;
     margin-right: 67px;
@@ -282,8 +282,7 @@ header{
    .group44{
     position: absolute;
     top: 30%;
-    /* left: 60%; */
-    left: 60%;
+    left: 65%;
    }
    .group44 img{
     width: 200px;
